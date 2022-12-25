@@ -12,13 +12,14 @@
 
 	5. Размещение странички на хостинге.
 
-Web - страница с работами: https://jul-p.github.io/IT_Labs/
 [Web - страница с работами](https://jul-p.github.io/IT_Labs/)
+
 # ✅ Лабораторная работа № 2
 
 В рамках проекта  создан сайт магазина игрушек.
 
 [Landing Page.](https://saintmantis.github.io/bear-house-landing-page/)
+
 [Ссылка на репозиторий.](https://github.com/saintmantis/bear-house-landing-page/tree/master)
 
 Используемый стек технологий:
@@ -41,4 +42,5 @@ Web - страница с работами: https://jul-p.github.io/IT_Labs/
 # ✅ Экзаменационный билет № 19
 
 [Ответ на экзаменационный билет.](https://github.com/stankin/inet-2022/wiki/exam19)
+
 [История изменений.](https://github.com/stankin/inet-2022/wiki/exam19/_history)
